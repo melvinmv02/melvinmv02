@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MCA-2025%20%E2%80%93%20Present-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/BCA-2020%20%E2%80%93%202024-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCA-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/BCA-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kottayam%2C%20Kerala-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
@@ -42,14 +42,14 @@ I enjoy building practical technology solutions and developing hands-on experien
 
 ### Engineering Interests
 
-- ☁️ **Cloud Infrastructure** — AWS EC2, S3, IAM, VPC, CloudWatch
-- 🐧 **Linux Administration** — Users, permissions, packages, files, directories and troubleshooting
-- 🌐 **Networking** — TCP/IP, IP addressing, DNS, HTTP/HTTPS
-- ⚙️ **Automation & DevOps** — Ansible, configuration management and workflow automation
-- 💻 **Programming** — Python, Java and MySQL
-- 🌐 **Web Development** — Django, HTML, CSS, JavaScript and WordPress
-- 🔧 **System Troubleshooting** — Practical infrastructure and application troubleshooting
-- 📈 **Digital Technologies** — SEO, keyword research and content strategy
+* ☁️ **Cloud Infrastructure** — AWS EC2, S3, IAM, VPC, CloudWatch
+* 🐧 **Linux Administration** — Users, permissions, packages, files, directories and troubleshooting
+* 🌐 **Networking** — TCP/IP, IP addressing, DNS, HTTP/HTTPS
+* ⚙️ **Automation & DevOps** — Ansible, configuration management and workflow automation
+* 💻 **Programming** — Python, Java and MySQL
+* 🌐 **Web Development** — Django, HTML, CSS, JavaScript and WordPress
+* 🔧 **System Troubleshooting** — Practical infrastructure and application troubleshooting
+* 📈 **Digital Technologies** — SEO, keyword research and content strategy
 
 ### Open To
 
@@ -107,14 +107,14 @@ I enjoy building practical technology solutions and developing hands-on experien
 
 ## ☁️ Cloud & Infrastructure
 
-| Area | Technologies |
-|---|---|
-| **AWS** | EC2 · S3 · IAM · VPC · CloudWatch |
-| **Linux** | RHCSA Fundamentals · File & Directory Management · User & Permission Management |
-| **Networking** | TCP/IP · IP Addressing · DNS · HTTP/HTTPS |
-| **Automation** | Ansible · Configuration Management |
-| **System Administration** | Package Management · Shell Commands · System Troubleshooting |
-| **Tools** | Git · GitHub · VS Code |
+| Area                      | Technologies                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| **AWS**                   | EC2 · S3 · IAM · VPC · CloudWatch                                               |
+| **Linux**                 | RHCSA Fundamentals · File & Directory Management · User & Permission Management |
+| **Networking**            | TCP/IP · IP Addressing · DNS · HTTP/HTTPS                                       |
+| **Automation**            | Ansible · Configuration Management                                              |
+| **System Administration** | Package Management · Shell Commands · System Troubleshooting                    |
+| **Tools**                 | Git · GitHub · VS Code                                                          |
 
 ---
 
@@ -127,24 +127,24 @@ I enjoy building practical technology solutions and developing hands-on experien
 
 A full-stack nursery management system developed to streamline student management, attendance tracking, daily activities, classroom management and communication between teachers and parents.
 
-| Dimension | Details |
-|---|---|
-| **Stack** | Python · Django · HTML · CSS · JavaScript |
-| **Scale** | Multi-role nursery management application |
-| **Performance** | Structured workflows with application testing and troubleshooting |
-| **Security** | Role-based teacher and parent dashboards |
-| **Impact** | Improved student management, activity monitoring and communication |
-| **Repository** | [GitHub](https://github.com/melvinmv02) |
+| Dimension       | Details                                                            |
+| --------------- | ------------------------------------------------------------------ |
+| **Stack**       | Python · Django · HTML · CSS · JavaScript                          |
+| **Scale**       | Multi-role nursery management application                          |
+| **Performance** | Structured workflows with application testing and troubleshooting  |
+| **Security**    | Role-based teacher and parent dashboards                           |
+| **Impact**      | Improved student management, activity monitoring and communication |
+| **Repository**  | [GitHub](https://github.com/melvinmv02)                            |
 
 **Engineering Scope**
 
-- Developed student profile management.
-- Implemented attendance tracking.
-- Added daily activity monitoring.
-- Developed separate teacher and parent dashboards.
-- Implemented reports and notifications.
-- Added classroom activity management.
-- Performed application testing and troubleshooting.
+* Developed student profile management.
+* Implemented attendance tracking.
+* Added daily activity monitoring.
+* Developed separate teacher and parent dashboards.
+* Implemented reports and notifications.
+* Added classroom activity management.
+* Performed application testing and troubleshooting.
 
 </details>
 
@@ -155,24 +155,24 @@ A full-stack nursery management system developed to streamline student managemen
 
 An RPA solution designed to automate scholarship eligibility verification using predefined criteria including CGPA, annual income, age and academic backlogs.
 
-| Dimension | Details |
-|---|---|
-| **Stack** | UiPath Studio · Data Tables · Excel · Variables · Loops · Conditional Logic |
-| **Scale** | Automated student-record processing workflow |
-| **Performance** | Reduced repetitive manual eligibility verification |
-| **Security** | Workflow validation and structured record processing |
-| **Impact** | Automated eligibility decisions, reports and email notifications |
-| **Repository** | [GitHub](https://github.com/melvinmv02) |
+| Dimension       | Details                                                                     |
+| --------------- | --------------------------------------------------------------------------- |
+| **Stack**       | UiPath Studio · Data Tables · Excel · Variables · Loops · Conditional Logic |
+| **Scale**       | Automated student-record processing workflow                                |
+| **Performance** | Reduced repetitive manual eligibility verification                          |
+| **Security**    | Workflow validation and structured record processing                        |
+| **Impact**      | Automated eligibility decisions, reports and email notifications            |
+| **Repository**  | [GitHub](https://github.com/melvinmv02)                                     |
 
 **Engineering Scope**
 
-- Automated scholarship eligibility verification.
-- Evaluated CGPA, annual income, age and academic backlogs.
-- Used data tables and variables for record processing.
-- Implemented loops and conditional logic.
-- Generated eligibility reports in Excel.
-- Automated email notifications to eligible students.
-- Implemented logging and workflow validation.
+* Automated scholarship eligibility verification.
+* Evaluated CGPA, annual income, age and academic backlogs.
+* Used data tables and variables for record processing.
+* Implemented loops and conditional logic.
+* Generated eligibility reports in Excel.
+* Automated email notifications to eligible students.
+* Implemented logging and workflow validation.
 
 </details>
 
@@ -183,24 +183,24 @@ An RPA solution designed to automate scholarship eligibility verification using 
 
 Hands-on training focused on Linux administration and Ansible automation, including users, permissions, packages, troubleshooting, inventories, modules, variables and playbooks.
 
-| Dimension | Details |
-|---|---|
-| **Stack** | Red Hat Linux · Ansible · Shell |
-| **Scale** | Linux administration and configuration automation exercises |
-| **Performance** | Automated basic system configuration tasks |
-| **Security** | User and permission management |
-| **Impact** | Strengthened Linux administration and automation capabilities |
-| **Repository** | [GitHub](https://github.com/melvinmv02) |
+| Dimension       | Details                                                       |
+| --------------- | ------------------------------------------------------------- |
+| **Stack**       | Red Hat Linux · Ansible · Shell                               |
+| **Scale**       | Linux administration and configuration automation exercises   |
+| **Performance** | Automated basic system configuration tasks                    |
+| **Security**    | User and permission management                                |
+| **Impact**      | Strengthened Linux administration and automation capabilities |
+| **Repository**  | [GitHub](https://github.com/melvinmv02)                       |
 
 **Engineering Scope**
 
-- Practiced RHCSA-based Linux administration.
-- Managed users and permissions.
-- Worked with packages and system configuration.
-- Performed system troubleshooting.
-- Practiced Ansible inventories and modules.
-- Worked with variables and playbooks.
-- Automated basic system configuration tasks.
+* Practiced RHCSA-based Linux administration.
+* Managed users and permissions.
+* Worked with packages and system configuration.
+* Performed system troubleshooting.
+* Practiced Ansible inventories and modules.
+* Worked with variables and playbooks.
+* Automated basic system configuration tasks.
 
 </details>
 
@@ -211,23 +211,23 @@ Hands-on training focused on Linux administration and Ansible automation, includ
 
 A fitness website developed and managed using WordPress with configuration, content management and SEO optimization.
 
-| Dimension | Details |
-|---|---|
-| **Stack** | WordPress · HTML · CSS · SEO |
-| **Scale** | Complete website development and management |
-| **Performance** | Applied on-page optimization |
-| **Security** | Basic website configuration and management |
-| **Impact** | Improved website structure and search visibility |
-| **Repository** | [GitHub](https://github.com/melvinmv02) |
+| Dimension       | Details                                          |
+| --------------- | ------------------------------------------------ |
+| **Stack**       | WordPress · HTML · CSS · SEO                     |
+| **Scale**       | Complete website development and management      |
+| **Performance** | Applied on-page optimization                     |
+| **Security**    | Basic website configuration and management       |
+| **Impact**      | Improved website structure and search visibility |
+| **Repository**  | [GitHub](https://github.com/melvinmv02)          |
 
 **Engineering Scope**
 
-- Built and managed a complete fitness website.
-- Configured themes and plugins.
-- Created and managed website pages and content.
-- Applied SEO techniques.
-- Applied on-page optimization.
-- Managed website updates and configuration.
+* Built and managed a complete fitness website.
+* Configured themes and plugins.
+* Created and managed website pages and content.
+* Applied SEO techniques.
+* Applied on-page optimization.
+* Managed website updates and configuration.
 
 </details>
 
@@ -237,15 +237,11 @@ A fitness website developed and managed using WordPress with configuration, cont
 
 ### Master of Computer Applications — MCA
 
-**Marian College Kuttikkanam Autonomous**  
-`2025 – Present`
+**Marian College Kuttikkanam Autonomous**
 
 ### Bachelor of Computer Applications — BCA
 
-**St. Thomas College Palai Autonomous**  
-`2020 – 2024`
-
-
+**St. Thomas College Palai Autonomous**
 
 ---
 
@@ -253,14 +249,14 @@ A fitness website developed and managed using WordPress with configuration, cont
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎓 **MCA** | Pursuing Master of Computer Applications |
-| 💻 **Full-Stack Development** | Developed a Django-based nursery management system |
-| ⚙️ **RPA Automation** | Developed an automated scholarship eligibility workflow |
-| 🐧 **Linux Administration** | Completed RHCSA-oriented Linux administration training |
-| 🔧 **Ansible Automation** | Practiced inventories, modules, variables and playbooks |
-| 🌐 **Web Development & SEO** | Built and managed a WordPress fitness website |
+| Recognition                   | Details                                                 |
+| ----------------------------- | ------------------------------------------------------- |
+| 🎓 **MCA**                    | Pursuing Master of Computer Applications                |
+| 💻 **Full-Stack Development** | Developed a Django-based nursery management system      |
+| ⚙️ **RPA Automation**         | Developed an automated scholarship eligibility workflow |
+| 🐧 **Linux Administration**   | Completed RHCSA-oriented Linux administration training  |
+| 🔧 **Ansible Automation**     | Practiced inventories, modules, variables and playbooks |
+| 🌐 **Web Development & SEO**  | Built and managed a WordPress fitness website           |
 
 </div>
 
@@ -296,8 +292,6 @@ A fitness website developed and managed using WordPress with configuration, cont
 
 **Microsoft Azure: Identity and Access Management** — LinkedIn
 
-
-
 ---
 
 ## 💻 Coding Profiles
@@ -313,8 +307,6 @@ A fitness website developed and managed using WordPress with configuration, cont
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white"/>
 
 </div>
-
-> Individual profile URLs are not included because they were not provided in the resume.
 
 ---
 
@@ -353,20 +345,6 @@ A fitness website developed and managed using WordPress with configuration, cont
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=melvinmv02&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area_color=4C1D95&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melvinmv02/melvinmv02/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melvinmv02/melvinmv02/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/melvinmv02/melvinmv02/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
