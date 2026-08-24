@@ -310,33 +310,7 @@ A fitness website developed and managed using WordPress with configuration, cont
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=melvinmv02&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=7C3AED" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=melvinmv02&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinmv02&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=melvinmv02&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
 
 ---
 
@@ -344,7 +318,7 @@ A fitness website developed and managed using WordPress with configuration, cont
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=melvinmv02&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area_color=4C1D95&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=melvinmv02&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area_color=4C1D95&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
